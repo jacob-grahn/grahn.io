@@ -21,8 +21,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple blog"
+    title = "Grahn's Blog"
+    subtitle = "The Future, Today!"
     keywords = ""
     copyright = ""
     menuMore = "Show more"

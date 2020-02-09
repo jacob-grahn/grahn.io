@@ -5,6 +5,8 @@ author = "Jacob Grahn"
 description = "In a magical world where nothing goes wrong, how can two clients update the same state in realtime?"
 +++
 
+<sup><sup>Photo by David Larivière on Unsplash</sup></sup>
+
 Here is a simple method to keep multiple users in sync with a shared state (in real time). The core concepts here are flexible enough to work anything from a collaborative document editor to a real-time multiplayer game.
 
 To help keep things simple, we'll build a super fun game called "Push the Button First!". This game will be played by Bob and Sue, and BOY do they both want to be the first person to push that button.
