@@ -83,7 +83,9 @@ function handleActionFromClient(action) {
 
 # Sorting it All Out
 
-Bob and Sue need to emit their actions to Hero, and then Hero will emit those actions back to Bob and Sue in order. Bob and Sue will believe whatever Hero says, because Hero is a very trustworthy server! We need to modify our client code, so that Bob and Sue send their actions to Hero, and listen for Hero's actions.
+Bob and Sue need to emit their actions to Hero, and then Hero will emit those actions back to Bob and Sue in order. Bob and Sue will believe whatever Hero says, because Hero is a very trustworthy server!
+
+We need to modify our client code, so that Bob and Sue send their actions to Hero, and listen for Hero's actions.
 
 ```
 // action emitter
