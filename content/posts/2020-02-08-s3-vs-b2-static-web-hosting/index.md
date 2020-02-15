@@ -30,7 +30,7 @@ take a look at hosting a static website from B2.
 B2 does allow you to set a bucket to "public", and then provides a url where
 anyone can download the files. That's a good start, but there are three problems
 that stand between us and an awesome static website.
-- 1: The url B2 providers isn't exactly something that would make for a catchy
+- 1: The url B2 provides isn't exactly something that would make for a catchy
 website name.
 - 2: Files served out of B2 don't have the right content-type headers present.
 For example, if I type in the path to an index.html file hosted on B2, it
@@ -119,8 +119,7 @@ async function handleRequest(event) {
 }
 ```
 
-I'll admit, writing a somewhat complex script was not what I had in mind when
-starting on the project. Sometimes experiments take us to strange places.
+I'll admit, writing a somewhat complex script was not what I had in mind when starting on the project. Sometimes the internet is just a crazy place.
 
 ## Performance
 Here are some completely un-scientific and un-trustworthy download speed results
