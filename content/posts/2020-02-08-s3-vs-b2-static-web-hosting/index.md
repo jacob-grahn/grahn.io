@@ -118,8 +118,8 @@ async function handleRequest(event) {
 }
 ```
 
-I'll admit, writing a somewhat complex script what not what I had in mind when
-starting on the project. Sometimes experiments take us to strange places.
+I'll admit, writing a somewhat complex script was not what I had in mind when
+starting on the project. Sometimes the internet is just a crazy place.
 
 ## Performance
 Here are some completely un-scientific and un-trustworthy download speed results
