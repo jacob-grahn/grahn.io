@@ -1,9 +1,9 @@
-+++
-title = "Anyone Want to Work on Platform Racing?"
-author = "Jacob Grahn"
-date = "2018-01-04T23:00:11-05:00"
-lastmod = "2020-02-13T19:11:26-05:00"
-+++
+---
+title: "Anyone Want to Work on Platform Racing?"
+author: "Jacob Grahn"
+date: "2018-01-04T23:00:11-05:00"
+lastmod: "2020-02-13T19:11:26-05:00"
+---
 
 Lately I've been thinking about how to move forward with the Platform Racing series without abandoning its long history and dedicated community.
 

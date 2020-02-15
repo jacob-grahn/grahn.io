@@ -1,9 +1,9 @@
-+++
-title = "Hosting Ghost With Docker"
-date = "2017-10-24T20:05:08-04:00"
-author = "Jacob Grahn"
-lastmod = "2020-02-13T19:10:15-05:00"
-+++
+---
+title: "Hosting Ghost With Docker"
+date: "2017-10-24T20:05:08-04:00"
+author: "Jacob Grahn"
+lastmod: "2020-02-13T19:10:15-05:00"
+---
 
 # Ghost
 

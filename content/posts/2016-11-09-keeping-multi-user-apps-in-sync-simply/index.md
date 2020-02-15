@@ -1,10 +1,10 @@
-+++
-title = "Keeping Multi User Apps In Sync (Simply)"
-date = "2016-11-09T19:16:00-05:00"
-author = "Jacob Grahn"
-description = "In a magical world where nothing goes wrong, how can two clients update the same state in realtime?"
-lastmod = "2020-02-13T19:03:39-05:00"
-+++
+---
+title: "Keeping Multi User Apps In Sync (Simply)"
+date: "2016-11-09T19:16:00-05:00"
+author: "Jacob Grahn"
+description: "In a magical world where nothing goes wrong, how can two clients update the same state in realtime?"
+lastmod: "2020-02-13T19:03:39-05:00"
+---
 
 Here is a simple method to keep multiple users in sync with a shared state (in real time). The core concepts here are flexible enough to work anything from a collaborative document editor to a real-time multiplayer game.
 

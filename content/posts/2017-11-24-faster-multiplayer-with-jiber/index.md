@@ -1,10 +1,10 @@
-+++
-title = "Faster Multiplayer with Jiber"
-date = "2017-11-24T15:39:43-05:00"
-author = "Jacob Grahn"
-description = "Just how quickly can friends to shoot each other in the face?"
-lastmod = "2020-02-13T18:42:20-05:00"
-+++
+---
+title: "Faster Multiplayer with Jiber"
+date: "2017-11-24T15:39:43-05:00"
+author: "Jacob Grahn"
+description: "Just how quickly can friends to shoot each other in the face?"
+lastmod: "2020-02-13T18:42:20-05:00"
+---
 
 <sup>_Updated 28 Sep 2019: Jiber has been renamed to HiDB._</sup>
 
