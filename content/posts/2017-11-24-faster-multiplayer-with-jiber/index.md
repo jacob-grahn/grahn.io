@@ -1,7 +1,12 @@
-+++
-title = "Faster Multiplayer with Jiber"
-date = "2017-11-24 15:39:43"
-+++
+---
+title: "Faster Multiplayer with Jiber"
+date: "2017-11-24T15:39:43-05:00"
+author: "Jacob Grahn"
+description: "Just how quickly can friends to shoot each other in the face?"
+lastmod: "2020-02-13T18:42:20-05:00"
+---
+
+<sup>_Updated 28 Sep 2019: Jiber has been renamed to HiDB._</sup>
 
 # A Starting Point
 Platform Racing 2 is a game I wrote in 2007, and it is still alive and kicking today thanks to a dedicated and generous community of players. It's a multiplayer platformer with many great features, such as shooting your friends in the face with a laser gun. Here's how Platform Racing 2 works that out: (it runs on a multiplayer server called Blossom Server)
@@ -11,7 +16,7 @@ Platform Racing 2 is a game I wrote in 2007, and it is still alive and kicking t
 That's four steps. If we estimate that each step takes 100ms, then we're looking at waiting a whopping 400ms just to find out if we shot shomeone in the face or not. Surely we can do better!
 
 # Getting Faster
-[Jiber](https://jiber.io) is a modern multiplayer server for web games. It can run a copy of the game on the server, which speeds up some events considerably. Here's how Jiber works out the process of shooting your friend in the face:
+[Jiber](https://github.com/jacob-grahn/hidb) is a modern multiplayer server for web games. It can run a copy of the game on the server, which speeds up some events considerably. Here's how Jiber works out the process of shooting your friend in the face:
 
 ![getting-faster](getting-faster.gif)
 

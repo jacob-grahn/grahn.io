@@ -1,8 +1,9 @@
-+++
-title = "Static Web Hosting: S3 vs B2"
-date = "2020-02-08"
-description = "Can B2 be used as a viable alternative for static website hosting?"
-+++
+---
+title: "Static Web Hosting: S3 vs B2"
+date: "2020-02-08"
+author: "Jacob Grahn"
+description: "Can B2 be used as a viable alternative for static website hosting?"
+---
 
 ## S3
 If you've been around the ol' static website hosting block a few times, you've
@@ -118,8 +119,7 @@ async function handleRequest(event) {
 }
 ```
 
-I'll admit, writing a somewhat complex script was not what I had in mind when
-starting on the project. Sometimes the internet is just a crazy place.
+I'll admit, writing a somewhat complex script was not what I had in mind when starting on the project. Sometimes the internet is just a crazy place.
 
 ## Performance
 Here are some completely un-scientific and un-trustworthy download speed results

@@ -1,11 +1,10 @@
-+++
-title = "Keeping Multi User Apps In Sync (Simply)"
-date = "2016-11-09 19:16:00"
-author = "Jacob Grahn"
-description = "In a magical world where nothing goes wrong, how can two clients update the same state in realtime?"
-+++
-
-<sup><sup>Photo by David Larivière on Unsplash</sup></sup>
+---
+title: "Keeping Multi User Apps In Sync (Simply)"
+date: "2016-11-09T19:16:00-05:00"
+author: "Jacob Grahn"
+description: "In a magical world where nothing goes wrong, how can two clients update the same state in realtime?"
+lastmod: "2020-02-13T19:03:39-05:00"
+---
 
 Here is a simple method to keep multiple users in sync with a shared state (in real time). The core concepts here are flexible enough to work anything from a collaborative document editor to a real-time multiplayer game.
 
@@ -166,6 +165,6 @@ These are the core concepts of sharing a state between multiple people, and it c
 
 Here are some additional things that would make this better:
 
-It would be easy use the same state and mutations on the server to keep the server's state in sync with the clients. This would be useful for storing backups of the state, or sending the state to a new user.
-Optimistic updates could be implemented by creating a record of un-verified actions that have been emitted, and trusting them up until an official action is received back from the server.
-Actions can be sent peer-to-peer and used optimistically using the same strategy as above.
+- It would be easy use the same state and mutations on the server to keep the server's state in sync with the clients. This would be useful for storing backups of the state, or sending the state to a new user.
+- Optimistic updates could be implemented by creating a record of un-verified actions that have been emitted, and trusting them up until an official action is received back from the server.
+- Actions can be sent peer-to-peer and used optimistically using the same strategy as above.

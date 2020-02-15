@@ -1,11 +1,9 @@
-+++
-title = "Hosting Ghost With Docker"
-date = "2017-10-24 20:05:08"
-useRelativeCover = true
-cover = "david-lariviere-AZ-gqLYV1Q8-unsplash.jpg"
-+++
-
-<sup><sup>Photo by Ahmad Odeh on Unsplash</sup></sub>
+---
+title: "Hosting Ghost With Docker"
+date: "2017-10-24T20:05:08-04:00"
+author: "Jacob Grahn"
+lastmod: "2020-02-13T19:10:15-05:00"
+---
 
 # Ghost
 
