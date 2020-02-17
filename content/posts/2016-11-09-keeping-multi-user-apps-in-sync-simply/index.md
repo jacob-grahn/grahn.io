@@ -148,14 +148,17 @@ emit({
   type: 'clickTheButton',
   person: 'Bob'
 })
-// this action as been sent to Hero
+// this action has been sent from Bob to Hero
+```
 ...However, on Sue's computer, this action will be emitted:
 
+
+```
 emit({  
   type: 'clickTheButton',
   person: 'Sue'
 })
-// this action has been sent to Hero
+// this action has been sent from Sue to Hero
 ```
 Hero gets Sue's action first, and then Bob's. Hero sends those actions back to Bob and Sue in order. Bob and Sue both run the actions using their "clickTheButton" mutation, and both Bob and Sue determine Sue to be the winner! Congratulations Sue!
 
@@ -165,6 +168,6 @@ These are the core concepts of sharing a state between multiple people, and it c
 
 Here are some additional things that would make this better:
 
-- It would be easy use the same state and mutations on the server to keep the server's state in sync with the clients. This would be useful for storing backups of the state, or sending the state to a new user.
+- It would be easy to use the same state and mutations on the server to keep the server's state in sync with the clients. This would be useful for storing backups of the state, or sending the state to a new user.
 - Optimistic updates could be implemented by creating a record of un-verified actions that have been emitted, and trusting them up until an official action is received back from the server.
 - Actions can be sent peer-to-peer and used optimistically using the same strategy as above.
