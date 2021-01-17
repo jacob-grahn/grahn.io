@@ -5,7 +5,7 @@ author: "Jacob Grahn"
 description: "A multi-part series on the making of Bubble Racing"
 ---
 
-# Wall
+*Note: The source code to Bubble Racing and a living version of this tutorial can be found [here](https://gitlab.com/bubble-racing/bubble-racing-client/-/tree/master/wall).*
 
 Bubble Racing is a game where you compete with friends to be the first to solve a maze (or obstacle course). There is no obstacle more tried and true than a wall. We're going to jazz up the visuals of our walls a little bit, but functionally what we're making here is an obstacle that things like bubbles can not pass through.
 
