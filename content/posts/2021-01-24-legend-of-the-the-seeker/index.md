@@ -4,6 +4,9 @@ date: "2021-01-24"
 author: "Jacob Grahn"
 description: "A multi-part series on the making of Bubble Racing"
 ---
+
+*Note: The source code to Bubble Racing and a living version of this tutorial can be found [here](https://gitlab.com/bubble-racing/bubble-racing-client/-/tree/master/seeker).*
+
 ![legend of the seeker tv show](legend-of-the-seeker.jpg)
 
 Err, ok. Not that seeker. (Did anyone else watch that show?)
