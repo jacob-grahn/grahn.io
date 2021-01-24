@@ -7,9 +7,9 @@ description: "A multi-part series on the making of Bubble Racing"
 
 *Note: The source code to Bubble Racing and a living version of this tutorial can be found [here](https://gitlab.com/bubble-racing/bubble-racing-client/-/tree/master/seeker).*
 
-![legend of the seeker tv show](legend-of-the-seeker.jpg)
+![legend of the seeker TV show](legend-of-the-seeker.jpg)
 
-Err, ok. Not that seeker. (Did anyone else watch that show?)
+Err, OK. Not that seeker. (Did anyone else watch that show?)
 
 This seeker will be a hidden helper within our game. It tries to get to a `target_position`, but it will be stopped by `walls` and other such things. The behavior will come in handy, and we'll use it later to make `bubbles` and `fish`.
 
