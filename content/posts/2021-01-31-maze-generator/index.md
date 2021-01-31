@@ -5,6 +5,8 @@ author: "Jacob Grahn"
 description: "A multi-part series on the making of Bubble Racing"
 ---
 
+*Note: The source code to Bubble Racing and a living version of this tutorial can be found [here](https://gitlab.com/bubble-racing/bubble-racing-client/-/tree/master/maze-generator).*
+
 Rather than taking the time to actually design interesting levels (or create a level editor), we're going to go with randomly generated mazes instead! It's amaaaze-ing!
 
 If you're wondering how one goes about writing some maze-generating code, here's the secret: Do a search for "how to program *something*", and some useful results will turn up. I searched for "how to program _maze algorithm_". [This Wikipedia page](https://en.wikipedia.org/wiki/Maze_generation_algorithm) was one of the results, and it was both helpful and interesting.
