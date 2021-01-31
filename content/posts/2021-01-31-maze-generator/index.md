@@ -5,7 +5,7 @@ author: "Jacob Grahn"
 description: "A multi-part series on the making of Bubble Racing"
 ---
 
-*Note: The source code to Bubble Racing and a living version of this tutorial can be found [here](https://gitlab.com/bubble-racing/bubble-racing-client/-/tree/master/maze-generator).*
+*Note: The source code to Bubble Racing and a living version of this tutorial can be found [here](https://gitlab.com/bubble-racing/bubble-racing-client/-/tree/master/maze_generator).*
 
 Rather than taking the time to actually design interesting levels (or create a level editor), we're going to go with randomly generated mazes instead! It's amaaaze-ing!
 
